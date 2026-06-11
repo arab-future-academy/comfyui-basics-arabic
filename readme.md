@@ -66,4 +66,12 @@
 
     [![ComfyUI من الصفر للاحتراف | شرح كامل 2026 + Z-Image + LoRA + Video LTX 2.3 + تثبيت و حل المشاكل](https://img.youtube.com/vi/SDg0AbqwRvg/maxresdefault.jpg)](https://www.youtube.com/watch?v=SDg0AbqwRvg&list=PLa_45zxyaspH71syIG8SAqaaQkSnXSPKk&index=15)
 
+16. [تشغيل ComfyUI + LTX Video مجاناً على Google Colab خطوة بخطوة واستخدام GPU T4 و15GB مساحة تخزين مجاني](https://www.youtube.com/watch?v=ch9YN40bkLo&list=PLa_45zxyaspH71syIG8SAqaaQkSnXSPKk&index=16)
+
+    [![تشغيل ComfyUI + LTX Video مجاناً على Google Colab خطوة بخطوة واستخدام GPU T4 و15GB مساحة تخزين مجاني](https://img.youtube.com/vi/ch9YN40bkLo/maxresdefault.jpg)](https://www.youtube.com/watch?v=ch9YN40bkLo&list=PLa_45zxyaspH71syIG8SAqaaQkSnXSPKk&index=16)
+
+17. [كيفية تشغيل ComfyUI على Kaggle مجاناً مع SDXL وLTX 2.3 بدون الحاجة إلى جهاز بمواصفات عالية](https://www.youtube.com/watch?v=lsBUMWDslJM&list=PLa_45zxyaspH71syIG8SAqaaQkSnXSPKk&index=17)
+
+    [![كيفية تشغيل ComfyUI على Kaggle مجاناً مع SDXL وLTX 2.3 بدون الحاجة إلى جهاز بمواصفات عالية](https://img.youtube.com/vi/lsBUMWDslJM/maxresdefault.jpg)](https://www.youtube.com/watch?v=lsBUMWDslJM&list=PLa_45zxyaspH71syIG8SAqaaQkSnXSPKk&index=17)
+
 </div>
